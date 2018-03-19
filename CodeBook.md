@@ -1,6 +1,8 @@
----
-title: "CodeBook for Tidy Data"
----
+
+# CodeBook For Tidy Data  
+
+This file contains the attributes on which goal of project was achieved.
+
 
 ## __Classification factors__
 1.Subject - The ID of the Test subject.  
