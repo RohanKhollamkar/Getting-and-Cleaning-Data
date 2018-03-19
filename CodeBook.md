@@ -1,9 +1,5 @@
 ---
 title: "CodeBook for Tidy Data"
-output:
-  word_document: default
-  html_document: default
-  pdf_document: default
 ---
 
 ## __Classification factors__
